@@ -1,11 +1,11 @@
-import storeImage from "../../images/metric-icon.png"
+import storeImage from "../../images/market.png"
 import "./BusinessMerics.css"
 export default function BusinessMetrics() {
 
   return (
     <div className="container">
       <div className="">
-        s
+       
       
       </div>
       <div className="hero">
