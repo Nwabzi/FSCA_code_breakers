@@ -15,7 +15,7 @@ export default function Business() {
         <div class="column">
           <div class="content">
             <h2>Your Business</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut lorem sed sapien interdum vehicula. Proin varius mauris eget metus aliquet malesuada. Etiam eget tellus vel neque laoreet viverra. Duis sed eros et magna finibus ullamcorper vitae vel dolor.</p>
+            <p>This paragraph describes the financial information and analysis tools available in a virtual business game. It highlights the importance of using a balance sheet to understand the financial health of a business and make informed decisions about investing, financing, and growth. The gross profit margins metric is also explained as a way to assess profitability and make pricing and cost management decisions. Other financial analysis tools such as cash flow statements, income statements, and ratio analysis are mentioned as means to track performance over time, identify areas for improvement, and make strategic decisions for growth and sustainability. Regular analysis of financial information can provide valuable insights and help in making data-driven decisions for long-term success.</p>
           </div>
         </div>
       </div>
