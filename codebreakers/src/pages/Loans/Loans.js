@@ -18,7 +18,7 @@ export default function Loans() {
         <div class="column">
           <div class="content">
             <h2>Take out a loan</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut lorem sed sapien interdum vehicula. Proin varius mauris eget metus aliquet malesuada. Etiam eget tellus vel neque laoreet viverra. Duis sed eros et magna finibus ullamcorper vitae vel dolor.</p>
+            <p>You can explore various loan options available for your business. By taking out a business loan, you can secure the necessary funds to finance your growth plans or manage cash flow during difficult times. With competitive interest rates and flexible repayment terms, taking out a business loan can help you achieve your business goals while maintaining financial stability.</p>
           </div>
         </div>
       </div>
