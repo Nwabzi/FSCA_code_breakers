@@ -1,14 +1,17 @@
 import { Link, useMatch, useResolvedPath } from "react-router-dom"
+import logoImage from "../images/logo.png"
 
 export default function Navbar() {
   return (
-    <nav className="nav">
+    <nav className="navbar">
       <Link to="/" className="site-title">
-        Site Name
+        <img  src={logoImage} className='logo-image' alt=""/>  
+    
       </Link>
       <ul>
         <CustomLink to="/business">Your business</CustomLink>
-       
+        <CustomLink to="/loans">Loans</CustomLink>
+        <CustomLink to="/metrics">Market Analysis</CustomLink>
       </ul>
     </nav>
   )

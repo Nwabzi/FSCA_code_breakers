@@ -1,12 +1,14 @@
-import storeImage from "../../images/metric-icon.png"
-
-export default function Business() {
+import storeImage from "../../images/storeBag.png"
+import "./Home.css"
+export default function Home() {
 
   return (
     <div className="container">
       <div className="">
-        s
-      
+        
+        <p><span><b>Market metrics</b></span>
+          <span id="home-metrics">Balance: R 40 000 &nbsp;   &nbsp; &nbsp; Units sold:259 &nbsp;   &nbsp; &nbsp; Inflation rate: 5.75% &nbsp; &nbsp; Interest rate: 10% &nbsp; &nbsp; Rank: 1023</span>
+        </p>
       </div>
       <div className="hero">
         <div class="column">

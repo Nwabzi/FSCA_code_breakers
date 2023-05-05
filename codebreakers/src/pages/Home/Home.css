@@ -1,0 +1,28 @@
+.Home-image{
+    width: 90%;
+  }
+
+  .hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .column {
+    width: 90%;
+  }
+  
+  .column img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .content {
+    text-align: center;
+  }
+
+  #home-metrics{
+    float: right;
+    color: rgb(166, 6, 6);
+  }
